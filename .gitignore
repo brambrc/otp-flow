@@ -1,0 +1,14 @@
+.env
+.env.local
+.env.*.local
+*.o
+*.a
+*.so
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.git/
+prenup
